@@ -13,11 +13,11 @@ how to init project
 * react .env = REACT_APP_BASE=
 _________________________________
 
-*nodejs .env = 
-ACCESS_SESSION_SECRET=
-ACCESS_JWT_SECRET=
-ACCESS_MONGODB=
-SQL_HOST=
-SQL_USER=
-SQL_PASSWORD=
-SQL_DB=
+* nodejs .env = 
+* ACCESS_SESSION_SECRET=
+* ACCESS_JWT_SECRET=
+* ACCESS_MONGODB=
+* SQL_HOST=
+* SQL_USER=
+* SQL_PASSWORD=
+* SQL_DB=
