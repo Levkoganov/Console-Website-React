@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "602cd27e08ab7334b466dba0"
+  },
+  "name": "admin",
+  "email": "admin@admin",
+  "password": "$2a$10$2yIvC6ne8Js7ZispsKI8O.PSPi7D6.FHgmAI/J5rzOVqu.8H./8mu",
+  "date": {
+    "$date": "2021-02-17T08:23:26.424Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60363ae91801704304efeeea"
+  },
+  "name": "admin2v2",
+  "email": "admin@admin2",
+  "password": "$2a$10$/omEvpIsouX/RFdbukrHiOyLFd0PjBYIwjAhuU11SA7dM2ZbKwRQu",
+  "date": {
+    "$date": "2021-02-24T11:39:21.529Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603cb7d0afb835261475a856"
+  },
+  "name": "lev",
+  "email": "lev.203@gmail.c",
+  "password": "$2a$10$TeZwz3WY61U5GRfzJaYbaOBuKl70pEX1ddIkt/z3URsxzh//q3IXW",
+  "date": {
+    "$date": "2021-03-01T09:45:52.889Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603d1ad7f6993937e40bac10"
+  },
+  "name": "admin",
+  "email": "admin@admin3",
+  "password": "$2a$10$J31wfrFsOMaiEByXw78Jw.G/KFGBuIko1HB8zf/jL6RaRNPDy16Jm",
+  "date": {
+    "$date": "2021-03-01T16:48:23.717Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "603d333cf6993937e40bac11"
+  },
+  "name": "newAdmin",
+  "email": "newAdmin@admin",
+  "password": "$2a$10$vRwCa9Uxk6i1FkXPrnn63OT8xvD2p4d.jaEM7eDaQTXRYaU6ap.V6",
+  "date": {
+    "$date": "2021-03-01T18:32:28.392Z"
+  },
+  "__v": 0
+}]
