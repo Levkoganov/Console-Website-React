@@ -9,7 +9,6 @@ how to init project
 2.use the database folder (mySQL and mongoDB)
 3.code require .env (frontend and backend)
 
-
 * react .env = REACT_APP_BASE=
 _________________________________
 
